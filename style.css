@@ -1,0 +1,15 @@
+:root{
+--cor_de_fundo: blue(255, 0, 136);
+--cor_de_fundo2: blueviolet(225, 143, 43);
+}
+
+
+body{
+    background-color:var(--cor_de_fundo);
+}
+
+.teste{
+
+    background-color:var(--cor_de_fundo2);
+
+}
